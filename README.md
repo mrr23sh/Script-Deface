@@ -14,8 +14,8 @@ Silahkan kalian yang baru mengenal Deface dan untuk pemula bisa copy script puny
      <font color="red" size="4">Akan Siap Membantu Meretas Website Website Yang Tidak Berpendidikan</font>
        <font color="white" size="4">Seperti Website Pornografi Perjudian Penipuan Dan isis!!</font>
          <font color="Grey" size="4">Kami Akan Membobol Situs Tersebut Fuck You Admin!!</font>
-           <font color="red" size="3">Big Family Malware Was Here</font>
-          <font color="Grey" size="5">HACKED BY: Mr_R23SH
+           <font color="red" size="3">Big Family Malware Was Here Kami Hanya Anak Biasa Yang ingin Mengenal Dunia IT</font>
+          <font color="Grey" size="5">HACKED BY: Mr_R23SH</font>
    </center>
     </body>
    </html>
