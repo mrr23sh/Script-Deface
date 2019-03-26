@@ -8,7 +8,7 @@ Silahkan kalian yang baru mengenal Deface dan untuk pemula bisa copy script puny
     <title>Hacked By:Mr_R23SH</title>
    <body>
   <body bgcolor="black">
- <center><img src="http://3.bp.blogspot.com/-0w5jACGjAAk/U-djc3X6U6I/AAAAAAAAAHc/FJOwS3lpcs4/s1600/Anonymous+Indonesian.jpg" id="img" style="width: 200px; height: 210px;">
+ <center><img src=" https://mobile.facebook.com/photo.php?fbid=2446747555552674&id=100006523592248&set=a.1375898759304231&refid=17&__tn__=EH-R " id="img" style="width: 200px; height: 210px;">
   <center> 
     <font color="red" size="5">Kami Dari Team MALWARE Was Here</font>
      <font color="red" size="4">Akan Siap Membantu Meretas Website Website Yang Tidak Berpendidikan</font>
