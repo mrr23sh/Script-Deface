@@ -1,7 +1,7 @@
 # Script-Deface
 
 Merubah Tampilan Utama Website atau yang biasa kita sebut Deface..
-Silahkan kalian yang baru mengenal Deface dan untuk pemula bisa copy script punya saya hehe:) Created BY:R3Za F235SYH
+Silahkan kalian yang baru mengenal Deface dan untuk pemula bisa copy script punya saya hehe:)
 
 <html>
   <head>
